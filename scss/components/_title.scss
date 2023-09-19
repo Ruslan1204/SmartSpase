@@ -1,0 +1,16 @@
+.title {
+  color: #000;
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 1.375;
+}
+
+.title-center {
+  text-align: center;
+}
+
+@media (min-width: 767.98) {
+  .title {
+    font-size: 30px;
+  }
+}

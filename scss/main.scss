@@ -1,0 +1,21 @@
+//Подключение шрифтов
+//&display=swap - добавить при подключении через плагин
+@import url('https://fonts.googleapis.com/css?family=Manrope:regular,500,600,700,800&display=swap');
+
+@import './base/reset';
+@import './base/container';
+
+@import './components/slider';
+@import './components/title';
+@import './components/reting';
+@import './components/sprite';
+
+
+@import './layouts/header';
+@import './layouts/hero';
+@import './layouts/works';
+@import './layouts/deals';
+@import './layouts/featured';
+@import './layouts/reviews';
+@import './layouts/subscribe';
+@import './layouts/footer';
