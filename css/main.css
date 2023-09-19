@@ -16,7 +16,7 @@ a {
 
 ul,
 ol,
-ki {
+li {
   list-style: none;
 }
 
@@ -791,6 +791,7 @@ body {
   background-color: transparent;
   -webkit-transition: color 300ms ease 0ms;
   transition: color 300ms ease 0ms;
+  color: inherit;
   cursor: pointer;
 }
 
